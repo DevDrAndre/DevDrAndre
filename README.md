@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DevDrAndre">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=XR+Developer+%7C+Computer+Programming+Student;Building+immersive+experiences+for+VR+%2F+AR;Unity+%7C+C%23+%7C+IoT+%7C+Blender+%7C+Fusion+360" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=XR+Developer+%7C+Computer+Programming+Student;Building+immersive+experiences+for+VR+%2F+AR;Unity+%7C+C%23+%7C+Python+%7C+IoT" alt="Typing SVG" />
   </a>
 </p>
 
