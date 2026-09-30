@@ -24,7 +24,7 @@ I am a **Computer Programming student** at Manisa Celal Bayar University, focuse
 
 ## 🛠️ What I Do
 
-- **XR Development:** VR / AR applications in Unity and C# using OpenXR, ARKit and ARCore
+- **XR Development:** MR / AR / VR applications in Unity and C# using OpenXR, ARKit and ARCore
 - **Tracking & Computer Vision:** marker-based tracking and spatial measurement
 - **IoT & Embedded Systems:** connected devices, sensors and hardware integration
 - **3D Modeling & Design:** assets and parts modeled in Blender and Fusion 360
