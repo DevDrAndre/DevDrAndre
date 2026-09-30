@@ -24,7 +24,7 @@ I am a **Computer Programming student** at Manisa Celal Bayar University, focuse
 
 ## 🛠️ What I Do
 
-- **XR Development:** VR / AR applications in Unity and C#
+- **XR Development:** VR / AR applications in Unity and C# using OpenXR, ARKit and ARCore
 - **Tracking & Computer Vision:** marker-based tracking and spatial measurement
 - **IoT & Embedded Systems:** connected devices, sensors and hardware integration
 - **3D Modeling & Design:** assets and parts modeled in Blender and Fusion 360
@@ -44,6 +44,9 @@ I am a **Computer Programming student** at Manisa Celal Bayar University, focuse
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23FF6F00.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+![OpenXR](https://img.shields.io/badge/OpenXR-%23AC162C.svg?style=for-the-badge&logo=khronosgroup&logoColor=white)
+![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 **IoT & Embedded**
 
